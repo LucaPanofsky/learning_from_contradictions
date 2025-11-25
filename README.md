@@ -1,6 +1,5 @@
-# Learning From Contradiction
+# Learning From Contradictions
 
-The Art of learning from contradiction is a personal research project started a long time ago. 
-Here I try to collect notes and result about the research. 
+*The Art of Learning from Contradictions* is a personal research project I began some time ago. I am using this site to compile my notes and results.
 
-For the time being, the only available resource is this uncomplete draft: https://github.com/LucaPanofsky/learning_from_contradictions/blob/main/draft.md
+For now, the only available resource is the following incomplete draft: https://github.com/LucaPanofsky/learning_from_contradictions/blob/main/draft.md
